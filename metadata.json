@@ -1,0 +1,8 @@
+{
+  "name": "Kimi K3 in C - Web Playground & Architecture Studio",
+  "description": "High-fidelity React rewrite and interactive execution studio for kimi-k3-in-c, running 2.78-trillion parameter Kimi K3 inference on CPU with 8 GB RAM via 4 reductions, XTML chat REPL, memory ladder doctor, and MoE cache simulator.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
